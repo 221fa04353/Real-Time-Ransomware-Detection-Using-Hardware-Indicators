@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+psutil
+streamlit
+joblib
+python-multipart

@@ -1,0 +1,1 @@
+print("Run scripts from scripts folder as per README.")
